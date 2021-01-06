@@ -1,0 +1,9 @@
+SET(TEST_SOURCES test_triangulation)
+
+foreach(test_src ${TEST_SOURCES})
+    add_executable(${test_src} ${test_src}.cpp)
+    target_link_libraries(${test_src} ${THIRD_PARTY_LIBS} myslam)
+    add_test(${test_src} ${test_src})
+    
+endforeach(test_src)
+

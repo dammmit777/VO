@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/frame.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/frame.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/frame.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/mappoint.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/mappoint.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/mappoint.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/map.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/map.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/map.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/camera.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/camera.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/camera.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/config.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/config.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/config.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/feature.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/feature.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/feature.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/frontend.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/frontend.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/frontend.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/backend.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/backend.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/backend.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/viewer.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/viewer.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/viewer.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/visual_odometry.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/visual_odometry.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/visual_odometry.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/src",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/dataset.cpp.o -c /home/ssm/GRADUATION-PROJECT/src/dataset.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/src/dataset.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/test",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread   -o CMakeFiles/test_triangulation.dir/test_triangulation.cpp.o -c /home/ssm/GRADUATION-PROJECT/test/test_triangulation.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/test/test_triangulation.cpp"
+},
+{
+  "directory": "/home/ssm/GRADUATION-PROJECT/build/app",
+  "command": "/usr/bin/c++   -DGFLAGS_IS_A_DLL=0 -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -isystem /usr/local/include -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/ssm/GRADUATION-PROJECT/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread   -o CMakeFiles/main.dir/main.cpp.o -c /home/ssm/GRADUATION-PROJECT/app/main.cpp",
+  "file": "/home/ssm/GRADUATION-PROJECT/app/main.cpp"
+}
+]
